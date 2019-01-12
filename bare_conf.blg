@@ -1,0 +1,8 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: bare_conf.aux
+The style file: abbrv.bst
+Illegal, another \bibstyle command---line 56 of file bare_conf.aux
+ : \bibstyle
+ :          {abbrv}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+(There was 1 error message)
